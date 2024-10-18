@@ -1,1 +1,2 @@
 # GYM-EXERCISE-PLAN
+This is an Gym Exercise Plan made by Dorothy Wanjiru.The website should enable a user to organise their weeks exercise , to show how the exercises are perform  by just clicking the button Get Weekly Exercises.The button also changes the exercises during each week and stretching exercises on saturday and sunday to as rest days.

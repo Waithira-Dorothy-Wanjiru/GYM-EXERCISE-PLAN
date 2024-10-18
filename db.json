@@ -1,0 +1,46 @@
+{
+    "exercises": [
+        {
+            "name": "Push Up",
+            "videoId": "IODxDxX7oi4"
+        },
+        {
+            "name": "Squat",
+            "videoId": "_uZLFUnKSaM"
+        },
+        {
+            "name": "Lunge",
+            "videoId": "tTej-ax9XiA"
+        },
+        {
+            "name": "Plank",
+            "videoId": "pSHjTRCQxIw"
+        },
+        {
+            "name": "Burpee",
+            "videoId": "xQdyIrSSFnE"
+        }
+    ],
+    "stretchingExercises": [
+        {
+            "name": "Yoga Stretch",
+            "videoId": "T41mYCmtWls"
+        },
+        {
+            "name": "Leg Stretch",
+            "videoId": "zOGCrQRpNMY"
+        },
+        {
+            "name": "Shoulder Stretch",
+            "videoId": "svA6rVkT9-Y"
+        },
+        {
+            "name": "Hamstring Stretch",
+            "videoId": "bOf2AOpG4qM"
+        },
+        {
+            "name": "Cat-Cow Stretch",
+            "videoId": "vuyUwtHl694"
+        }
+    ]
+}
